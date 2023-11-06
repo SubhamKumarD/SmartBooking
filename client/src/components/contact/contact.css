@@ -1,0 +1,37 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse:separate;
+    width: 100%;
+}
+td,th{
+    
+    text-align: left;
+    padding: 20px;
+    
+}
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
+.ft{
+    margin-left: 180px;
+   
+}
+
+.pl{
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+    border-color: crimson;
+    border-style: solid ;
+    
+}
+.terms1{
+    width: 100%;
+    max-width: 1024px;
+    margin-left: 200px;
+}
+.color{
+    color: crimson;
+}
